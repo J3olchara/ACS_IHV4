@@ -1,0 +1,1814 @@
+[2024-12-18 21:19:04.902] [DEBUG] - Using: n=10, m=5, k=3, t=8, -f=./.env
+[2024-12-18 21:19:04.903] [INFO] - STQ spawned
+[2024-12-18 21:19:04.903] [INFO] - MergeSort started
+[2024-12-18 21:19:04.903] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.903] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.904] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.905] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.906] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.907] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task added: empty_task
+[2024-12-18 21:19:04.908] [INFO] - STQ Started
+[2024-12-18 21:19:04.908] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.908] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.908] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.908] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.908] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.909] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.909] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.910] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.910] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.911] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.911] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.912] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.912] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.913] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.913] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.914] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.914] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.915] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.915] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.916] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.916] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.917] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.917] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.918] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.918] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.919] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.919] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.920] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.920] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Got task with id: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Trying to get task from queue...
+[2024-12-18 21:19:04.921] [INFO] - Doing task: empty_task
+[2024-12-18 21:19:04.921] [INFO] - Task queue is empty... Waiting for new tasks.
+[2024-12-18 21:19:04.921] [INFO] - Task ended: empty_task
+[2024-12-18 21:19:04.921] [INFO] - MergeSort ended
+[2024-12-18 21:19:04.921] [INFO] - Book 57 Position (0, 0, 0)
+[2024-12-18 21:19:04.921] [INFO] - Book 120 Position (0, 0, 1)
+[2024-12-18 21:19:04.921] [INFO] - Book 107 Position (0, 0, 2)
+[2024-12-18 21:19:04.921] [INFO] - Book 103 Position (0, 1, 0)
+[2024-12-18 21:19:04.921] [INFO] - Book 87 Position (0, 1, 1)
+[2024-12-18 21:19:04.921] [INFO] - Book 89 Position (0, 1, 2)
+[2024-12-18 21:19:04.921] [INFO] - Book 10 Position (0, 2, 0)
+[2024-12-18 21:19:04.921] [INFO] - Book 100 Position (0, 2, 1)
+[2024-12-18 21:19:04.921] [INFO] - Book 106 Position (0, 2, 2)
+[2024-12-18 21:19:04.921] [INFO] - Book 92 Position (0, 3, 0)
+[2024-12-18 21:19:04.921] [INFO] - Book 144 Position (0, 3, 1)
+[2024-12-18 21:19:04.921] [INFO] - Book 98 Position (0, 3, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 20 Position (0, 4, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 131 Position (0, 4, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 101 Position (0, 4, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 147 Position (1, 0, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 75 Position (1, 0, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 41 Position (1, 0, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 135 Position (1, 1, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 137 Position (1, 1, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 125 Position (1, 1, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 76 Position (1, 2, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 112 Position (1, 2, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 77 Position (1, 2, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 140 Position (1, 3, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 36 Position (1, 3, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 23 Position (1, 3, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 115 Position (1, 4, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 45 Position (1, 4, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 12 Position (1, 4, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 59 Position (2, 0, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 111 Position (2, 0, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 136 Position (2, 0, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 56 Position (2, 1, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 78 Position (2, 1, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 104 Position (2, 1, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 105 Position (2, 2, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 35 Position (2, 2, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 22 Position (2, 2, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 68 Position (2, 3, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 15 Position (2, 3, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 109 Position (2, 3, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 86 Position (2, 4, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 44 Position (2, 4, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 124 Position (2, 4, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 94 Position (3, 0, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 97 Position (3, 0, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 63 Position (3, 0, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 24 Position (3, 1, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 30 Position (3, 1, 1)
+[2024-12-18 21:19:04.922] [INFO] - Book 113 Position (3, 1, 2)
+[2024-12-18 21:19:04.922] [INFO] - Book 62 Position (3, 2, 0)
+[2024-12-18 21:19:04.922] [INFO] - Book 91 Position (3, 2, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 69 Position (3, 2, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 66 Position (3, 3, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 84 Position (3, 3, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 27 Position (3, 3, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 110 Position (3, 4, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 5 Position (3, 4, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 122 Position (3, 4, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 11 Position (4, 0, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 58 Position (4, 0, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 133 Position (4, 0, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 139 Position (4, 1, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 129 Position (4, 1, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 64 Position (4, 1, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 82 Position (4, 2, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 72 Position (4, 2, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 18 Position (4, 2, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 83 Position (4, 3, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 130 Position (4, 3, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 42 Position (4, 3, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 6 Position (4, 4, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 8 Position (4, 4, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 114 Position (4, 4, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 148 Position (5, 0, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 60 Position (5, 0, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 48 Position (5, 0, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 117 Position (5, 1, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 132 Position (5, 1, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 43 Position (5, 1, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 61 Position (5, 2, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 28 Position (5, 2, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 96 Position (5, 2, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 0 Position (5, 3, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 7 Position (5, 3, 1)
+[2024-12-18 21:19:04.923] [INFO] - Book 95 Position (5, 3, 2)
+[2024-12-18 21:19:04.923] [INFO] - Book 118 Position (5, 4, 0)
+[2024-12-18 21:19:04.923] [INFO] - Book 39 Position (5, 4, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 38 Position (5, 4, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 31 Position (6, 0, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 67 Position (6, 0, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 145 Position (6, 0, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 116 Position (6, 1, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 99 Position (6, 1, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 9 Position (6, 1, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 141 Position (6, 2, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 4 Position (6, 2, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 119 Position (6, 2, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 71 Position (6, 3, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 102 Position (6, 3, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 13 Position (6, 3, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 85 Position (6, 4, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 46 Position (6, 4, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 127 Position (6, 4, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 149 Position (7, 0, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 74 Position (7, 0, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 108 Position (7, 0, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 70 Position (7, 1, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 16 Position (7, 1, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 29 Position (7, 1, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 79 Position (7, 2, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 126 Position (7, 2, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 47 Position (7, 2, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 65 Position (7, 3, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 17 Position (7, 3, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 40 Position (7, 3, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 54 Position (7, 4, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 93 Position (7, 4, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 80 Position (7, 4, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 123 Position (8, 0, 0)
+[2024-12-18 21:19:04.924] [INFO] - Book 88 Position (8, 0, 1)
+[2024-12-18 21:19:04.924] [INFO] - Book 55 Position (8, 0, 2)
+[2024-12-18 21:19:04.924] [INFO] - Book 142 Position (8, 1, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 34 Position (8, 1, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 146 Position (8, 1, 2)
+[2024-12-18 21:19:04.925] [INFO] - Book 138 Position (8, 2, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 33 Position (8, 2, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 3 Position (8, 2, 2)
+[2024-12-18 21:19:04.925] [INFO] - Book 143 Position (8, 3, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 25 Position (8, 3, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 14 Position (8, 3, 2)
+[2024-12-18 21:19:04.925] [INFO] - Book 134 Position (8, 4, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 128 Position (8, 4, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 73 Position (8, 4, 2)
+[2024-12-18 21:19:04.925] [INFO] - Book 52 Position (9, 0, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 19 Position (9, 0, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 81 Position (9, 0, 2)
+[2024-12-18 21:19:04.925] [INFO] - Book 49 Position (9, 1, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 21 Position (9, 1, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 32 Position (9, 1, 2)
+[2024-12-18 21:19:04.925] [INFO] - Book 90 Position (9, 2, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 53 Position (9, 2, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 50 Position (9, 2, 2)
+[2024-12-18 21:19:04.925] [INFO] - Book 121 Position (9, 3, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 1 Position (9, 3, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 2 Position (9, 3, 2)
+[2024-12-18 21:19:04.925] [INFO] - Book 37 Position (9, 4, 0)
+[2024-12-18 21:19:04.925] [INFO] - Book 51 Position (9, 4, 1)
+[2024-12-18 21:19:04.925] [INFO] - Book 26 Position (9, 4, 2)
+[2024-12-18 21:23:38.392] [DEBUG] [thread=0x1d6f85000] - Using: n=10, m=5, k=3, t=8, -f=./.env
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - STQ spawned
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - MergeSort started
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.393] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.394] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.395] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.396] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.397] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.398] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Task added: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - STQ Started
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.399] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.399] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.400] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.401] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.402] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.403] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.403] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.404] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.405] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.405] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.406] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.407] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.407] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.408] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.409] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.409] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.410] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.410] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16fe87000] - Doing task: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Got task with id: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16fe87000] - Task ended: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16ff13000] - Doing task: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Trying to get task from queue...
+[2024-12-18 21:23:38.411] [INFO] [thread=0x16ff13000] - Task ended: empty_task
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Task queue is empty... Waiting for new tasks.
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - MergeSort ended
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 56 Position (0, 0, 0)
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 35 Position (0, 0, 1)
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 86 Position (0, 0, 2)
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 148 Position (0, 1, 0)
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 114 Position (0, 1, 1)
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 50 Position (0, 1, 2)
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 140 Position (0, 2, 0)
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 0 Position (0, 2, 1)
+[2024-12-18 21:23:38.411] [INFO] [thread=0x1d6f85000] - Book 27 Position (0, 2, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 28 Position (0, 3, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 59 Position (0, 3, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 134 Position (0, 3, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 107 Position (0, 4, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 40 Position (0, 4, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 48 Position (0, 4, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 105 Position (1, 0, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 17 Position (1, 0, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 18 Position (1, 0, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 13 Position (1, 1, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 22 Position (1, 1, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 141 Position (1, 1, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 144 Position (1, 2, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 83 Position (1, 2, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 125 Position (1, 2, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 113 Position (1, 3, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 37 Position (1, 3, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 112 Position (1, 3, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 136 Position (1, 4, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 111 Position (1, 4, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 9 Position (1, 4, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 39 Position (2, 0, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 143 Position (2, 0, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 93 Position (2, 0, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 87 Position (2, 1, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 79 Position (2, 1, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 72 Position (2, 1, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 146 Position (2, 2, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 133 Position (2, 2, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 8 Position (2, 2, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 67 Position (2, 3, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 7 Position (2, 3, 1)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 63 Position (2, 3, 2)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 108 Position (2, 4, 0)
+[2024-12-18 21:23:38.412] [INFO] [thread=0x1d6f85000] - Book 124 Position (2, 4, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 23 Position (2, 4, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 128 Position (3, 0, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 127 Position (3, 0, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 55 Position (3, 0, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 33 Position (3, 1, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 51 Position (3, 1, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 54 Position (3, 1, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 3 Position (3, 2, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 104 Position (3, 2, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 92 Position (3, 2, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 137 Position (3, 3, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 34 Position (3, 3, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 38 Position (3, 3, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 20 Position (3, 4, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 97 Position (3, 4, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 64 Position (3, 4, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 66 Position (4, 0, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 1 Position (4, 0, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 101 Position (4, 0, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 53 Position (4, 1, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 85 Position (4, 1, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 131 Position (4, 1, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 89 Position (4, 2, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 145 Position (4, 2, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 36 Position (4, 2, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 69 Position (4, 3, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 139 Position (4, 3, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 120 Position (4, 3, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 90 Position (4, 4, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 47 Position (4, 4, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 84 Position (4, 4, 2)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 110 Position (5, 0, 0)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 103 Position (5, 0, 1)
+[2024-12-18 21:23:38.413] [INFO] [thread=0x1d6f85000] - Book 76 Position (5, 0, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 119 Position (5, 1, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 16 Position (5, 1, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 21 Position (5, 1, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 70 Position (5, 2, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 122 Position (5, 2, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 77 Position (5, 2, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 88 Position (5, 3, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 52 Position (5, 3, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 91 Position (5, 3, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 117 Position (5, 4, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 41 Position (5, 4, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 29 Position (5, 4, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 96 Position (6, 0, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 11 Position (6, 0, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 57 Position (6, 0, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 31 Position (6, 1, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 99 Position (6, 1, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 123 Position (6, 1, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 49 Position (6, 2, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 58 Position (6, 2, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 75 Position (6, 2, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 98 Position (6, 3, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 45 Position (6, 3, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 80 Position (6, 3, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 129 Position (6, 4, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 32 Position (6, 4, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 116 Position (6, 4, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 5 Position (7, 0, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 2 Position (7, 0, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 126 Position (7, 0, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 102 Position (7, 1, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 106 Position (7, 1, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 149 Position (7, 1, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 74 Position (7, 2, 0)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 100 Position (7, 2, 1)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 132 Position (7, 2, 2)
+[2024-12-18 21:23:38.414] [INFO] [thread=0x1d6f85000] - Book 95 Position (7, 3, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 142 Position (7, 3, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 121 Position (7, 3, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 68 Position (7, 4, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 25 Position (7, 4, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 130 Position (7, 4, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 147 Position (8, 0, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 73 Position (8, 0, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 115 Position (8, 0, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 60 Position (8, 1, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 71 Position (8, 1, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 12 Position (8, 1, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 138 Position (8, 2, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 62 Position (8, 2, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 82 Position (8, 2, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 61 Position (8, 3, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 42 Position (8, 3, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 44 Position (8, 3, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 19 Position (8, 4, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 118 Position (8, 4, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 24 Position (8, 4, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 10 Position (9, 0, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 81 Position (9, 0, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 14 Position (9, 0, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 30 Position (9, 1, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 26 Position (9, 1, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 109 Position (9, 1, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 46 Position (9, 2, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 15 Position (9, 2, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 94 Position (9, 2, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 78 Position (9, 3, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 43 Position (9, 3, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 135 Position (9, 3, 2)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 4 Position (9, 4, 0)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 65 Position (9, 4, 1)
+[2024-12-18 21:23:38.415] [INFO] [thread=0x1d6f85000] - Book 6 Position (9, 4, 2)

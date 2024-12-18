@@ -1,0 +1,3 @@
+/Users/arseniizxc/Desktop/coding/ACS_IHV4/build/CMakeFiles/ACS_IHV4.dir
+/Users/arseniizxc/Desktop/coding/ACS_IHV4/build/CMakeFiles/edit_cache.dir
+/Users/arseniizxc/Desktop/coding/ACS_IHV4/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/library -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/queues -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/logger -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/dotenv -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/ACS_IHV4.dir/main.cpp.o -c /Users/arseniizxc/Desktop/coding/ACS_IHV4/main.cpp",
+  "file": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/main.cpp",
+  "output": "CMakeFiles/ACS_IHV4.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/library -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/queues -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/logger -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/dotenv -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/ACS_IHV4.dir/library/library.cpp.o -c /Users/arseniizxc/Desktop/coding/ACS_IHV4/library/library.cpp",
+  "file": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/library/library.cpp",
+  "output": "CMakeFiles/ACS_IHV4.dir/library/library.cpp.o"
+},
+{
+  "directory": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/library -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/queues -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/logger -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/dotenv -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/ACS_IHV4.dir/queues/task.cpp.o -c /Users/arseniizxc/Desktop/coding/ACS_IHV4/queues/task.cpp",
+  "file": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/queues/task.cpp",
+  "output": "CMakeFiles/ACS_IHV4.dir/queues/task.cpp.o"
+},
+{
+  "directory": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/library -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/queues -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/logger -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/dotenv -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/ACS_IHV4.dir/queues/stq.cpp.o -c /Users/arseniizxc/Desktop/coding/ACS_IHV4/queues/stq.cpp",
+  "file": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/queues/stq.cpp",
+  "output": "CMakeFiles/ACS_IHV4.dir/queues/stq.cpp.o"
+},
+{
+  "directory": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/library -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/queues -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/logger -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/dotenv -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/ACS_IHV4.dir/logging/logger.cpp.o -c /Users/arseniizxc/Desktop/coding/ACS_IHV4/logging/logger.cpp",
+  "file": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/logging/logger.cpp",
+  "output": "CMakeFiles/ACS_IHV4.dir/logging/logger.cpp.o"
+},
+{
+  "directory": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/build",
+  "command": "/usr/bin/clang++  -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/library -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/queues -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/logger -I/Users/arseniizxc/Desktop/coding/ACS_IHV4/dotenv -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -mmacosx-version-min=14.2 -o CMakeFiles/ACS_IHV4.dir/dotenv/env_getter.cpp.o -c /Users/arseniizxc/Desktop/coding/ACS_IHV4/dotenv/env_getter.cpp",
+  "file": "/Users/arseniizxc/Desktop/coding/ACS_IHV4/dotenv/env_getter.cpp",
+  "output": "CMakeFiles/ACS_IHV4.dir/dotenv/env_getter.cpp.o"
+}
+]
