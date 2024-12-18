@@ -33,7 +33,6 @@ int main(int argc, char* argv[]) {
                 use_file=true;
             } else if (!arg.rfind("-out=", 0)) {
                 log_file_path = arg.substr(5);
-                use_file=true;
             } else {
                 LOG_ERROR() << std::format("Unexpected argument: {}", arg);
                 LOG_ERROR() << std::format("Usage: \n{} [-n=<value>] [-m=<value>] [-k=<value>] [-t|--threads=<value>] [-f|--file=<value>]", argv[0]);
@@ -49,13 +48,21 @@ int main(int argc, char* argv[]) {
     }
     if (n != -1 || m != -1 || k != -1 || t != -1 || use_file) {
         EnvGetter getter(env_path);
-        n = std::stoi(getter.Get("n_rows"));
-        m = std::stoi(getter.Get("m_shelfs"));
-        k = std::stoi(getter.Get("k_books"));
-        t = std::stoi(getter.Get("threads"));
+        if (n == -1) {
+            n = std::stoi(getter.Get("n_rows"));
+        }
+        if (m == -1) {
+            m = std::stoi(getter.Get("m_shelfs"));
+        }
+        if (k == -1) {
+            k = std::stoi(getter.Get("k_books"));
+        }
+        if (t == -1) {
+            t = std::stoi(getter.Get("threads"));
+        }
     }
 
-    LOG_DEBUG() << std::format("Using: n={}, m={}, k={}, t={}, -f={}", n, m, k, t, env_path);
+    LOG_DEBUG() << std::format("Using: n={}, m={}, k={}, t={}, -f={}, -out={}", n, m, k, t, env_path, log_file_path);
 
     std::shared_ptr<STQ> stq(new STQ(t));
     std::shared_ptr<Library> lib(new Library(n, m, k));
